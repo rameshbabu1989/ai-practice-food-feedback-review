@@ -89,3 +89,4 @@ It returns an analysis in this format:
 	"theme": "delivery"
 }
 ```
+<img width="829" height="843" alt="image" src="https://github.com/user-attachments/assets/e7533f0a-7508-4812-beb5-10693dacbf22" />
